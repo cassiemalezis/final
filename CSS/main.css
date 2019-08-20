@@ -1,0 +1,48 @@
+#title {
+    color:white;
+}
+
+#enlarge:hover {
+    transform: scale(1.2);
+}
+
+#topBanner {
+    background-color: #02b1af;
+    position: relative;
+}
+
+nav {
+    
+    position: absolute;
+    bottom: 0;
+    left:50%;
+    margin-left:-255px;
+}
+    
+nav li {
+    display:inline-block;
+}
+    
+a {
+    margin: 5px;
+    font-size:19px;
+    color:white;
+}
+
+a:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+table {
+    
+}
+
+h2 {
+    margin-left:5px;
+}
+
+img {
+    height:300px;
+    width:300px;
+}
